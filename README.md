@@ -4,3 +4,4 @@ This is what the readme content talk about.
 
 Creating a new branch is quick and simple.
 Fixed a bug in branch master.
+
